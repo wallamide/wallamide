@@ -1,3 +1,3 @@
-﻿# Welcome!
+## Welcome to my page! 
 
-### This is my personal github where I post whatever I want to work on. Some of this is also being saved for use or modification later
+I'm a biochemical neuroscientist, rustacean, and budding game/web dev. See my most active projects below.   
